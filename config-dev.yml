@@ -1,6 +1,6 @@
 spring:
   application:
-    name: abcmsc-consumer-departer
+    name: abcmsc-consumer-departer11
 
 eureka:
   client:
