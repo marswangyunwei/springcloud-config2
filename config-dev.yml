@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: abcmsc-consumer-depart
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+       #defaultZone: http://eureka8100.com:8100/eureka
+
+# Eureka工作界面中instance-id处链接的信息
+info:
+  company.name: www.abc.com
+  company.addr: China Beijing
+  company.tel: 12345678
+  app.name: abc-comsumer
+  app.desc: mic-server-cloud
+  author: abc
