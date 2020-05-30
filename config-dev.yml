@@ -12,7 +12,7 @@ eureka:
 info:
   company.name: www.abc.com
   company.addr: China Beijing
-  company.tel: 12345678
+  company.tel: 111111111111111111
   app.name: abc-comsumer
   app.desc: mic-server-cloud
   author: abc
