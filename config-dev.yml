@@ -1,3 +1,5 @@
+server:
+  port: 9993
 spring:
   application:
     name: abcmsc-consumer-departer1111
